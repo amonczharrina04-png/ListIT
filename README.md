@@ -41,8 +41,11 @@ shared components such as the scanner and main program functions. This avoids du
 **🔗💻JCLiK_ListIT/**
 
 💸ExpenseTracker.java — This class focuses on managing and tracking the user’s expenses. It includes methods to record new expenses, including details like monthly budget, category (e.g. food, household, personal care, and bills), date, and amount. It also includes methods to display a summary of expenses grouped by category or date. 
+
 🛒Item.java — This class defines the structure of an individual item on the shopping list. It contains attributes such as name of the item, quantity of the item needed, and price. 
+
 📋ListITMain.java — This is the main class of the application. It contains the main method, which serves as the starting point for the program. It handles the initial greeting, presents the main menu and manages the overall program flow based on the user input. 
+
 📝ShopList.java — This class is responsible for managing the user’s shopping list. It includes methods to add new items to the shopping list, remove items from the shopping list, display the current shopping list, and update the name, quantity or price of items on the list. 
 
 

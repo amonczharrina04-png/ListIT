@@ -25,12 +25,17 @@ shared components such as the scanner and main program functions. This avoids du
 **Program Structure**
 
 🔗Console-based Application Structure
+
 📂JCLiK_ListIT/
 
 └── 📂JCLiK_ListIT/
+ 
   ├── 💸ExpenseTracker.java
+  
   ├── 🛒Item.java
+  
   ├── 📋ListITMain.java
+  
   └── 📝ShopList.java
 
 **🔗💻JCLiK_ListIT/**
